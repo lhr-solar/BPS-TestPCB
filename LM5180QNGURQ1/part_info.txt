@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM5180QNGURQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2019-08-08 16:03:48
+Downloaded=2020-11-16 07:57:20
+3D=Y

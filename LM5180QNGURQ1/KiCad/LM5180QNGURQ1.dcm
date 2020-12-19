@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5180QNGURQ1
+D Switching Voltage Regulators 70-Vin PSR flyback converter with 100-V, 1.5-A integrated power MOSFET 8-WSON -40 to 150
+K
+F https://www.arrow.com/en/products/lm5180qngurq1/texas-instruments
+$ENDCMP
+#
+#End Doc Library
