@@ -1,0 +1,9 @@
+1)lay out the rest of traces
+2)ensure traces on right side of white line are 50% larger
+3)reduce size of board (connector on right side can hang over a bit as long as mounted on board)
+4)either erase or make redudent name invisible
+5)either erase or make abitrary compnent numbers from schematic invisible
+
+*note* board looks....interesting with current gnd and 5v plane.
+can extend to entire board for aethsetic purposes, but is only needed on left side of 
+white line.
