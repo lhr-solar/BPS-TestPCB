@@ -7,4 +7,5 @@
   (lib (name utsvt-misc)(type Legacy)(uri ${KIPRJMOD}/common/utsvt-misc.lib)(options "")(descr ""))
   (lib (name utsvt-power-regulators)(type Legacy)(uri ${KIPRJMOD}/common/utsvt-power-regulators.lib)(options "")(descr ""))
   (lib (name LM5180QNGURQ1)(type Legacy)(uri C:/Users/hanna/Documents/Git/UTSVT/BPS-TestPCB/LM5180QNGURQ1/KiCad/LM5180QNGURQ1.lib)(options "")(descr ""))
+  (lib (name BPS-Test-rescue)(type Legacy)(uri ${KIPRJMOD}/BPS-Test-rescue.lib)(options "")(descr ""))
 )
