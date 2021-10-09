@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name RFM-5050s)(type KiCad)(uri ${KIPRJMOD}/RFM-5050s.pretty)(options "")(descr ""))
+  (lib (name LM5180QNGURQ1)(type Legacy)(uri ${KIPRJMOD}/LM5180QNGURQ1/KiCad/LM5180QNGURQ1.mod)(options "")(descr ""))
+  (lib (name Connector)(type KiCad)(uri ${KIPRJMOD}/Connector.pretty)(options "")(descr ""))
+  (lib (name transformer4)(type KiCad)(uri ${KIPRJMOD}/transformer4.pretty)(options "")(descr ""))
+  (lib (name UTSVT-KiCadLibraries-master)(type KiCad)(uri C:/Users/aaron/Downloads/UTSVT-KiCadLibraries-master/UTSVT-KiCadLibraries-master)(options "")(descr ""))
+  (lib (name UTSVT_Special)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_Special.pretty)(options "")(descr ""))
+  (lib (name UTSVT_Connectors)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_Connectors.pretty)(options "")(descr ""))
+  (lib (name UTSVT_ICs)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_ICs.pretty)(options "")(descr ""))
+  (lib (name UTSVT_Mechanical)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_Mechanical.pretty)(options "")(descr ""))
+  (lib (name UTSVT_Passive)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_Passive.pretty)(options "")(descr ""))
+  (lib (name UTSVT_Power)(type KiCad)(uri ${KIPRJMOD}/common/UTSVT_Power.pretty)(options "")(descr ""))
+)
